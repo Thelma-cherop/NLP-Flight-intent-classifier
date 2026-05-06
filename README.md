@@ -10,7 +10,7 @@ Built as part of a daily ML streak, following a documented failed attempt
 on synthetic data that proved data quality determines model performance.
 
 ## 🌐 Live Demo
-[Add your Streamlit Cloud link here]
+https://nlp-flight-intent-classifier-utm7gcpas7lu87qcybuisu.streamlit.app/
 
 ## 🎯 What It Does
 - Customer types a natural language airline query
